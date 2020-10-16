@@ -35,9 +35,6 @@ I also post technical articles on **[Towards Data Science](https://medium.com/@c
 >- [A General-Purpose Architecture for Text Mining](https://towardsdatascience.com/a-unified-model-for-text-mining-2085054f6072)
 
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/christopher-thornton1/) or send me a message at [christopher_thornton@outlook.com](christopher_thornton@outlook.com)
-
-
 #### 𝙄 𝙡𝙤𝙤𝙠 𝙛𝙤𝙧𝙬𝙖𝙧𝙙 𝙩𝙤 𝙘𝙤𝙣𝙣𝙚𝙘𝙩𝙞𝙣𝙜 𝙬𝙞𝙩𝙝 𝙮𝙤𝙪!
 
 
