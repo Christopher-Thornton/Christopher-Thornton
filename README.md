@@ -3,7 +3,7 @@
 
 #### 𝙃𝙚𝙡𝙡𝙤 𝙁𝙧𝙞𝙚𝙣𝙙,
 
-### My Name is Christopher Thornton, I'm a Data Engineer from *Toronto, Canada*.
+### My Name is Christopher Thornton, I'm a Developer from *Toronto, Canada*.
 
 > Welcome to my GitHub profile, where I occasionally share my projects and research. 
 
